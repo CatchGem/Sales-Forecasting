@@ -63,7 +63,7 @@ Since the company is just embarking on this project, the scope has been kept to 
 
  
 
-While attempting to forecast sales, it is advisable to keep the following question in mind.
+# While attempting to forecast sales, it is advisable to keep the following question in mind.
 
  
 
@@ -79,7 +79,7 @@ While attempting to forecast sales, it is advisable to keep the following questi
 
  
 
-While you are solving the problem, the following steps can be used as a reference. Please note that you can take a different approach as well.
+# While  solving the problem, the following steps can be used as a reference. Please note that you can take a different approach as well.
 
  
 
